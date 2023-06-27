@@ -10,6 +10,9 @@ Our findings indicate that the encoder improves the model's hydrological predict
 This project has been developed in May/June 2022 by Group 1 for Laboratory of Computational Physics MOD B course (academic year: 2021-2022) at the University of Padova. The team was composed by:
 
 Monti Sebastiano: https://github.com/MontiSebastiano
+
 Tonazzo Valentina: https://github.com/ValentinaTonazzo
+
 Zoppellari Elena: https://github.com/zoppellarielena
+
 Cano Amaro German: https://github.com/german-cano
